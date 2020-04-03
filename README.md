@@ -1,4 +1,4 @@
-## Expense Tracker with React
+## Expense Tracker with React Hooks
 
 * Keep track of income and expenses.
 * Add and remove items.
