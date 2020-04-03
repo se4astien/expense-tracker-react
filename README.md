@@ -1,8 +1,8 @@
 ## Expense Tracker with React
 
-Keep track of income and expenses.
-Add and remove items.
-Use Context API for Global State.
+* Keep track of income and expenses.
+* Add and remove items.
+* Use Context API for Global State.
 
 ## Project Specifications
 
