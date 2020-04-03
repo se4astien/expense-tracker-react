@@ -2,6 +2,7 @@
 
 Keep track of income and expenses.
 Add and remove items.
+Use Context API for Global State.
 
 ## Project Specifications
 
