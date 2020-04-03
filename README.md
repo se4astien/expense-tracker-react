@@ -5,11 +5,11 @@ Add and remove items.
 
 ## Project Specifications
 
-[x] Create UI for project
-[x] Display transactions
-[x] Show balance, expense and income totals
-[x] Add new transation and reflect in total
-[x] Delete items from DOM
+- [x] Create UI for project
+- [x] Display transactions
+- [x] Show balance, expense and income totals
+- [x] Add new transation and reflect in total
+- [x] Delete items from DOM
 
 ## Online
 
