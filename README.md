@@ -9,7 +9,7 @@ Add and remove items.
 - [x] Display transactions
 - [x] Show balance, expense and income totals
 - [x] Add new transation and reflect in total
-- [x] Delete items from DOM
+- [x] Delete items
 
 ## Online
 
